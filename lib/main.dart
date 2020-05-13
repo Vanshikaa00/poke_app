@@ -94,6 +94,7 @@ class _HomePageState extends State<HomePage> {
                                     poke.name,
                                     style: TextStyle(
                                         fontFamily: 'MontserratLight',
+                                        color: Colors.cyan,
                                         fontSize: 20.0,
                                         fontWeight: FontWeight.bold),
                                   ),

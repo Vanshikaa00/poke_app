@@ -26,7 +26,7 @@ class PokeDetail extends StatelessWidget {
                   Text(
                     pokemon.name,
                     style: TextStyle(
-                        color: Colors.cyan,
+                        color: Colors.pinkAccent,
                         fontSize: 25.0,
                         fontWeight: FontWeight.bold),
                   ),
